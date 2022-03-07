@@ -1,0 +1,7 @@
+{
+"update" = "true",
+"title" = "Holiday notice",
+"desc" = "School will be closed from 21/02/2003 to 27/02/2003. Enjoy your vacation",
+"buttontext" = "Continue to App",
+"onclick" = "3"
+}
