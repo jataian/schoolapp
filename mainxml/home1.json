@@ -3,6 +3,6 @@
 "title" : "Holiday notice",
 "desc" : "School will be closed from 21/02/2003 to 27/02/2003. Enjoy your vacation",
 "buttontext" : "Continue to App",
-"onclick" : "1",
+"onclick" : "2",
 "url" : "https://www.google.com"
 }
